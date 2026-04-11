@@ -13,7 +13,7 @@ Raw data remain unchanged to ensure reproducibility.
 
 This folder includes a consolidated dataset that:
 
-combines all relevant raw data and includes newly generated and calculated variables derived from the raw data
+combines all relevant raw data and includes newly generated and calculated variables derived from the raw data.
 This dataset serves as the primary working file for data preparation and transformation steps.
 
 🔹 Analysis-Specific Data (analysis_data/)
